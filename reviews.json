@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. John Smith",
+      "subject": "Computer Science",
+      "stars": 4,
+      "review": "Very knowledgeable but can be tough. Lectures are clear and assignments are challenging."
+    },
+    {
+      "professor": "Dr. Emily Brown",
+      "subject": "Mathematics",
+      "stars": 5,
+      "review": "Explains concepts very well and is always willing to help during office hours."
+    },
+    {
+      "professor": "Dr. Michael Johnson",
+      "subject": "Physics",
+      "stars": 3,
+      "review": "Content is difficult, but the professor tries his best. Could improve on providing more examples."
+    },
+    {
+      "professor": "Dr. Sarah Lee",
+      "subject": "Chemistry",
+      "stars": 5,
+      "review": "Great at making difficult topics understandable. Her labs are well-organized."
+    },
+    {
+      "professor": "Dr. Robert Davis",
+      "subject": "Biology",
+      "stars": 2,
+      "review": "Lectures are hard to follow and he doesn't respond to emails promptly."
+    },
+    {
+      "professor": "Dr. Jennifer Wilson",
+      "subject": "History",
+      "stars": 4,
+      "review": "Engaging lecturer, but the reading load is heavy."
+    },
+    {
+      "professor": "Dr. Thomas Martinez",
+      "subject": "Economics",
+      "stars": 5,
+      "review": "He makes economics fun and interesting. Exams are straightforward if you study."
+    },
+    {
+      "professor": "Dr. Karen Moore",
+      "subject": "English Literature",
+      "stars": 3,
+      "review": "Very knowledgeable, but sometimes the lectures can be a bit dry."
+    },
+    {
+      "professor": "Dr. William Taylor",
+      "subject": "Psychology",
+      "stars": 4,
+      "review": "Interesting lectures and fair grading, but a bit slow in returning assignments."
+    },
+    {
+      "professor": "Dr. Patricia Anderson",
+      "subject": "Philosophy",
+      "stars": 5,
+      "review": "Amazing professor who really encourages deep thinking and discussion."
+    },
+    {
+      "professor": "Dr. Christopher Thomas",
+      "subject": "Sociology",
+      "stars": 3,
+      "review": "Decent lecturer, but the course material is not very engaging."
+    },
+    {
+      "professor": "Dr. Linda Jackson",
+      "subject": "Political Science",
+      "stars": 4,
+      "review": "Very passionate about the subject and encourages class participation."
+    },
+    {
+      "professor": "Dr. Steven White",
+      "subject": "Art History",
+      "stars": 2,
+      "review": "Monotonous lectures and the grading is harsh."
+    },
+    {
+      "professor": "Dr. Elizabeth Harris",
+      "subject": "Music Theory",
+      "stars": 5,
+      "review": "Her passion for music is contagious. Assignments are challenging but rewarding."
+    },
+    {
+      "professor": "Dr. James Clark",
+      "subject": "Anthropology",
+      "stars": 3,
+      "review": "Average lecturer. The material is interesting but could be presented better."
+    },
+    {
+      "professor": "Dr. Barbara Lewis",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Knowledgeable and approachable, but the workload is heavy."
+    },
+    {
+      "professor": "Dr. Mark Walker",
+      "subject": "Engineering",
+      "stars": 5,
+      "review": "Excellent professor. Clear explanations and practical examples."
+    },
+    {
+      "professor": "Dr. Nancy Young",
+      "subject": "Law",
+      "stars": 3,
+      "review": "Good at explaining legal concepts, but the exams are very tough."
+    },
+    {
+      "professor": "Dr. Paul King",
+      "subject": "Statistics",
+      "stars": 4,
+      "review": "Challenging course, but the professor provides plenty of resources to help you succeed."
+    },
+    {
+      "professor": "Dr. Sandra Green",
+      "subject": "Marketing",
+      "stars": 5,
+      "review": "Dynamic and engaging. She brings real-world examples to every lecture."
+    }
+  ]
+}
